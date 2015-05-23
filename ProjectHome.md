@@ -1,0 +1,1 @@
+You can use this tool to reverse the py2exe process. The tool will extract python code objects from executable file with your current python magic number.
